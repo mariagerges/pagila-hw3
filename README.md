@@ -1,6 +1,6 @@
 # pagila-hw3
 This is for DS
-[![](https://github.com/mariagerges/pagila-hw3/workflows/tests/badge.svg)](https://github.com/mariagergespagila-hw3/actions?query=workflow%3Atests)
+[![](https://github.com/mariagerges/pagila-hw3/workflows/tests/badge.svg)](https://github.com/mariagerges/pagila-hw3/actions?query=workflow%3Atests)
 
 ## Tasks
 
